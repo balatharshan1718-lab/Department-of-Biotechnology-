@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Department of Biotechnology | SRM TRP Engineering College</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>SRM TRP Engineering College</h1>
+        <p>Department of Biotechnology (Autonomous)</p>
+    </header>
+    
+    <nav>
+        <a href="index.html" aria-current="page">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="courses.html">Courses</a>
+        <a href="register.html">Register</a>
+        <a href="contact.html">Contact</a>
+        <a href="evidence.html">Evidence</a>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Welcome to the Department of Biotechnology</h2>
+            <p>The Department of Biotechnology at SRM TRP Engineering College, Tiruchirappalli, is committed to fostering academic excellence, cutting-edge research, and innovation in biological sciences and engineering applications. Our programs bridge core engineering principles with advanced molecular biology, bioinformatics, and bioprocess technology.</p>
+        </section>
+
+        <section>
+            <h3>Highlights & Objectives</h3>
+            <ul>
+                <li>State-of-the-art laboratories equipped for genetic engineering and bioprocess technology.</li>
+                <li>Experienced and research-active faculty members.</li>
+                <li>Strong emphasis on Sustainable Development Goals (SDG 4: Quality Education and SDG 9: Industry, Innovation and Infrastructure).</li>
+                <li>Active industry-institute interaction and internship opportunities.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 SRM TRP Engineering College. All rights reserved.</p>
+    </footer>
+</body>
+</html>
